@@ -1,5 +1,4 @@
 streamlit
-difflib
 pickle
 requests
 pandas
