@@ -4,7 +4,6 @@
 <br/>
 • This repository consists of files required to make a model of Movie Recommender a  ___Machine Learning Web App___ created with ___Streamlit___ .
 
-<br/>__Deployed At__: https://movie-recommendation-system-3sg7.onrender.com<br/>
 <h3>Description:</h3>
 Movie Recommender Model powered by Python Machine Learning and Streamlit framework .This is a ML Project to recommend the list of movies based on your search.
 
