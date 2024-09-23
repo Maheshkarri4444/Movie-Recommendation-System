@@ -26,3 +26,5 @@ Movie Recommender Model powered by Python Machine Learning and Streamlit framewo
 
 ![Screenshot (19)](https://github.com/Maheshkarri4444/Movie-Recommendation-System/assets/157581288/8825c6dd-aa9d-4adc-98bf-1d9450702bb5)
 
+<br/>• Have a Nice day! <br/>
+
